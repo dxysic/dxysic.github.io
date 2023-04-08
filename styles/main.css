@@ -1,0 +1,64 @@
+.nav_bar {
+    border-bottom: 3px solid white;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+
+#title_name {
+    font-size: 3.5rem;
+}
+
+.homepage_project_image {
+    max-width: 700px;
+}
+.project_card_name  {
+    text-align: center;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
+
+/* Add your styles here */
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+   background-color:#f4ecf4;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+  /* Style the tab */
+
+.tablinks{
+  margin-top: 0%;
+    padding: 1%;
+  text-align: center;
+  border: 3px solid ##C8B4E1;
+  background-color: white;
+
+
+  }
+
+li {
+  align-items: center;
+  align-items:stretch;
+  display: inline-block; 10px;
+  margin-right: 20px;
+}
+
+.title_name{
+  style = "direction: rtl;
+}
